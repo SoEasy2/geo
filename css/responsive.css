@@ -1,0 +1,155 @@
+@media (max-width: 1580px) {
+    .header-link {
+        gap: 10px !important;
+        font-size: 14px !important;
+    }
+}
+
+@media (max-width: 1375px) {
+    .header-link {
+        font-size: 13px !important;
+    }
+}
+
+@media (max-width: 1580px) {
+    .nav-list {
+        gap: 15px !important;
+    }
+}
+
+
+@media (max-width: 1580px) {
+    .request-button {
+        gap: 4px !important;
+
+    }
+}
+
+@media (max-width: 1470px) {
+    .title-content {
+        font-size: 42px !important;
+    }
+}
+
+
+@media (max-width: 1315px) {
+    .title-content {
+        font-size: 38px !important;
+    }
+}
+
+
+@media (max-width: 1240px) {
+    .title-content {
+        font-size: 34px !important;
+    }
+}
+
+@media (max-width: 1175px) {
+    .title-content {
+        font-size: 30px !important;
+    }
+}
+
+
+@media (max-width: 1115px) {
+    .title-content {
+        font-size: 30px !important;
+    }
+}
+
+@media (max-width: 1090px) {
+    .title-content {
+        font-size: 26px !important;
+    }
+}
+
+@media (max-width: 1175px) {
+    .title-delivery {
+        top: -5px !important;
+    }
+}
+
+
+@media (max-width: 560px) {
+    .title-content {
+        line-height: 30px !important;
+        font-size: 20px !important;
+    }
+
+    .title-delivery {
+        top: -3px !important;
+
+    }
+}
+
+
+@media (max-width: 1090px) {
+    .title-delivery {
+        font-size: 13px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .section-right-box {
+        margin-top: 44px;
+    }
+}
+
+@media(max-width: 1590px) {
+    .advantage-left {
+        margin-left: 45px !important;
+    }
+}
+
+@media(max-width: 1200px) {
+    .advantage-left {
+        margin-left: 65px !important;
+    }
+}
+
+@media(max-width: 1590px) {
+    .advantage-right {
+        margin-right: 45px !important;
+    }
+}
+
+
+@media(max-width: 1420px) {
+    .advantage-right {
+        margin-right: 45px !important;
+    }
+}
+
+@media(max-width: 1250px) {
+    .advantage-right {
+        margin-right: 65px !important;
+    }
+}
+
+@media(max-width: 1430px) {
+    .advantage-title {
+        font-size: 16px !important;
+    }
+}
+
+@media(max-width: 585px) {
+    .title-step {
+        font-size: 28px !important;
+    }
+}
+
+@media(max-width: 585px) {
+    .description-step {
+        font-size: 14px !important;
+    }
+}
+
+@media(max-width: 585px) {
+    .title-step-card {
+        font-size: 22px !important;
+    }
+}
+
+
+

@@ -1,0 +1,52 @@
+#section-1 {
+	background-color: #f4f7ff;
+	// background-image: url('../assets/svg/bg-i-1.svg'),
+	// 	url('../assets/svg/bg-i-2.svg');
+	background-image: url('../assets/svg/bg-i-1.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: left top, top right;
+	z-index: 1;
+}
+
+#section-2 {
+	background-color: #fff;
+	transform: translateX(100%);
+	border-radius: 47px;
+	z-index: 2;
+}
+
+#section-3 {
+	background-color: #f4f7ff;
+	transform: translateY(100%);
+	z-index: 3;
+	overflow: visible;
+}
+
+#section-4 {
+	background-color: #fff;
+	transform: translateY(100%);
+	z-index: 4;
+}
+
+#section-5 {
+	background-color: #fff;
+	transform: translateY(100%);
+	z-index: 5;
+}
+
+#section-6 {
+	background-color: #f4f7ff;
+}
+
+#section-7 {
+	background-color: #8e44ad;
+	transform: translateY(100%);
+	z-index: 7;
+}
+
+@media only screen and (max-width: 1024px) {
+	#section3 {
+		height: 100%;
+	}
+}
